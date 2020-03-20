@@ -5,6 +5,10 @@ A library management mobile application with feature of scanning and issuing the
  <h3>Backend</h3>
     &nbsp&nbspCloud firestore/ Firebase.
     
-  <h3>Working Explaination</h3>   
- 
- 
+   # UI Design   
+  
+  <h3>Login Page</h3>
+  <img src="Screenshot_2020-03-20-00-25-35-982_com.example.library_management.png"  width="250"> 
+   
+  <h3>Home Page</h3> 
+ <img src="Screenshot_2020-03-20-00-25-46-626_com.example.library_management.png" width="250">
