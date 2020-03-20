@@ -27,3 +27,10 @@ A library management mobile application with feature of scanning and issuing the
 
 # Database: Firebase
 
+<h3>Student's Database</h3> 
+ <img src="studentdb.png" width="250">
+
+
+<h3>Book's Database</h3> 
+ <img src="bookdb.png" width="250">
+
