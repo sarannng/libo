@@ -20,12 +20,12 @@ A library management mobile application with feature of scanning and issuing the
  <img src="Screenshot_2020-03-20-00-29-12-747_com.example.library_management.png" width="250">
  
 <h3>Book added @ Home Page</h3> 
- <img src="5.png" width="250">
+ <img src="5.png"  >
 
 # Database: Firebase
 
 <h3>Student's Database</h3> 
- <img src="studentdb.png" width="250">
+ <img src="studentdb.png" >
 
 
 <h3>Book's Database</h3> 
